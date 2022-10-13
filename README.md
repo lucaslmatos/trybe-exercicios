@@ -4,7 +4,7 @@ Esse repositório contém todos os exercícios resolvidos por mim [Lucas Matos](
 
 > "O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## Módulo 01 - [Fundamentos do Desenvolvimento Web](https://github.com/brunaLoyola/trybe-exercicios/tree/main/modulo01-fundamentos)
+## Módulo 01 - [Fundamentos do Desenvolvimento Web]
 
 #### Bloco 01: [unix & bash]
 
@@ -14,7 +14,7 @@ Esse repositório contém todos os exercícios resolvidos por mim [Lucas Matos](
 #### Bloco 02: [Git & GitHub e Internet]
 
 - [x] 2.1 - Git - O que é e para que serve
-- [x] 2.2 - Git & GitHub - Entendendo os comandos :octocat:
+- [x] 2.2 - Git & GitHub - Entendendo os comandos
 
 #### Bloco 03: [Introdução à HTML & CSS]
 
