@@ -18,7 +18,7 @@ Esse repositório contém todos os exercícios resolvidos por mim [Lucas Matos](
 
 #### Bloco 03: [Introdução à HTML & CSS]
 
-- [ ] 3.1 - HTML & CSS - Estruturas de página
+- [X] 3.1 - HTML & CSS - Estruturas de página
 - [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [ ] 3.3 - HTML & CSS - Seletores e posicionamento
 - [ ] 3.4 - HTML Semântico
